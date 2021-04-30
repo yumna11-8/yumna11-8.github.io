@@ -1,0 +1,29 @@
+body {
+	background-color: dodgerblue;
+	font-family: timesnewroman;
+}
+h2 {
+	font-size: 30px;
+	color: tomato;
+}
+ul {
+	border: 2px solid red;
+	margin: 10px 10px 10px 10px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+table {
+	border: 2px solid red;
+	margin: 10px 10px 10px 10px;
+}
+p {
+	color: orange;
+	text-align: justify;
+	font-family: arial;
+}
+li {
+	font-family: timesnewroman;
+	font-size: 20px;
+}
